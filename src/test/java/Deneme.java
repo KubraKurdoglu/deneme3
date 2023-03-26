@@ -3,6 +3,7 @@ public class Deneme {
 
 
         System.out.println("merhaba");
+          System.out.println("dunya");
 
     }
 }
